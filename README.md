@@ -11,3 +11,4 @@
 - Adding "Switch from i3 to bspwm"
 - Adding some configuration
 - Adding snapd installation commands
+- Adding Archlinux packages
