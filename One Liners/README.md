@@ -17,3 +17,22 @@ sudo sh -c 'echo "10.129.178.255 unika.htb" >> /etc/hosts'
 ```bash
 sudo sed -i '$ d' /etc/hosts
 ```
+
+**install bunjs**
+
+```bash
+curl https://bun.sh/install | bash
+```
+
+**install pnpm**
+
+```bash
+curl -fsSL https://get.pnpm.io/install.sh | sh -
+```
+
+**install vim-plug**
+
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
