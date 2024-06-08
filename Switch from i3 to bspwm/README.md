@@ -143,3 +143,5 @@ Save the file.
 5. Restart bspwm
 
 Restart bspwm for the changes to take effect. You can either log out and log back in or restart Xorg.
+
+**Now, the Alt key should function as the Super key in bspwm. You can use it for keybindings and commands that are typically triggered by the Super key.**

@@ -9,3 +9,4 @@
 - Adding One liners
 - Adding AUR helper installation
 - Adding "Switch from i3 to bspwm"
+- Adding some configuration
